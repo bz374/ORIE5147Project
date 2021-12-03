@@ -5,6 +5,9 @@ In this project, we are looking to find predictive factors that indicate the inc
 
 ---
 
+## 5741 Video Presentation
+https://www.youtube.com/watch?v=GkNFzg6GRWk&ab_channel=GretchenSiewert
+
 ## Our Members
 * Gretchen Siewert (gas272)
 * Abigail Ries (amr357)
